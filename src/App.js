@@ -1,8 +1,10 @@
 import React from 'react'
-import FillingSpace from './Grids/FillingSpace'
+import AbstractingContainerAndItems from './Grids/AbstractingContainerAndItems'
 
 function App() {
-  return <FillingSpace></FillingSpace>
+  return (
+    <AbstractingContainerAndItems></AbstractingContainerAndItems>
+  )
 }
 
 export default App
