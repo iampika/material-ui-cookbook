@@ -1,10 +1,8 @@
 import React from 'react'
-import UnderstandingBreakpoints from './Grids/UnderstandingBreakpoints'
+import FillingSpace from './Grids/FillingSpace'
 
 function App() {
-  return (
-    <UnderstandingBreakpoints></UnderstandingBreakpoints>
-  )
+  return <FillingSpace></FillingSpace>
 }
 
 export default App
