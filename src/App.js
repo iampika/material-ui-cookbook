@@ -1,8 +1,8 @@
 import React from 'react'
-import FixedColumnLayout from './Grids/FixedColumnLayout'
+import ColumnDirection from './Grids/ColumnDirection'
 
 function App() {
-  return <FixedColumnLayout></FixedColumnLayout>
+  return <ColumnDirection></ColumnDirection>
 }
 
 export default App
