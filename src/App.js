@@ -1,7 +1,10 @@
 import React from 'react'
+import UnderstandingBreakpoints from './Grids/UnderstandingBreakpoints'
 
 function App() {
-  return <div>App</div>
+  return (
+    <UnderstandingBreakpoints></UnderstandingBreakpoints>
+  )
 }
 
 export default App
