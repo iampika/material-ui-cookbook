@@ -1,10 +1,8 @@
 import React from 'react'
-import AbstractingContainerAndItems from './Grids/AbstractingContainerAndItems'
+import FixedColumnLayout from './Grids/FixedColumnLayout'
 
 function App() {
-  return (
-    <AbstractingContainerAndItems></AbstractingContainerAndItems>
-  )
+  return <FixedColumnLayout></FixedColumnLayout>
 }
 
 export default App
